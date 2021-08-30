@@ -7,6 +7,9 @@
 * * *
 
 [![trophy](https://github-readme-stats.vercel.app/api?username=majimboo&count_private=true&include_all_commits=true)](https://github.com/majimboo)
+
+* * *
+
 [![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=majimboo&layout=compact)](https://github.com/majimboo)
 
 <!--
